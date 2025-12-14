@@ -83,7 +83,7 @@ Eğer script çalışırken `Temporary failure in name resolution` hatası alıy
 3. IP'yi Ekleyin: Dosyanın en altına inin ve bulduğunuz IP adresini şu formatta ekleyin:
    ```bash
    10.1.54.12  wifi.gsb.gov.tr
-   (Not: 10.1.54.12 örnektir, kendi bulduğunuz IP'yi yazın!)
+   #(Not: 10.1.54.12 örnektir, kendi bulduğunuz IP'yi yazın!)
    ```
 Kaydedip çıktıktan (CTRL+O, Enter, CTRL+X) sonra script DNS sunucusuna ihtiyaç duymadan direkt çalışacaktır.
 
