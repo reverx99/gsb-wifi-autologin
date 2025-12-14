@@ -1,0 +1,5 @@
+# config.py.example
+# Bu dosyanın adını config.py olarak değiştirin ve bilgilerinizi girin.
+
+USERNAME = "TC_KIMLIK_NO"
+PASSWORD = "GSB_SIFRE"
